@@ -144,4 +144,4 @@ plt.xticks(rotation=45)
 plt.grid(axis='y', linestyle='--', alpha=0.9,color='black')
 plt.legend()
 plt.show()
-
+##################################################PREGUNTA1.2##############################################################
